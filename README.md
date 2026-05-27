@@ -24,9 +24,9 @@ Welcome to my personal engineering and mathematics notebook. This repository ser
 ## 📗 Year 2 Modules
 
 * 💻 **[ECE 2072: Digital Systems](./Year_2/ECE_2072)**
-  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2072/Other%20Important%20Stuff)** *(The core survival cheatsheet)*
+  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2072/Other%20Important%20Stuff)** *(Cheatsheet)*
 * ⚡ **[ECE 2131: Electrical Circuits](./Year_2/ECE_2131)**
-  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2131/Other%20Important%20Stuff)** *(Circuit analysis basics—crucial for mastering op-amps and AC steady state)*
+  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2131/Other%20Important%20Stuff)** *(Circuit analysis basics)*
 * 📈 **[ENG 2005: Advanced Engineering Mathematics](./Year_2/ENG_2005)**
   * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ENG_2005/Other%20Important%20Stuff)** *(Shortcuts for partial fractions, arc lengths, and ODE recaps)*
 
