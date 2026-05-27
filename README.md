@@ -1,16 +1,34 @@
 # 🧠 Uni of Understanding
 
-Welcome to my personal engineering and mathematics notebook. This repository serves as a centralized, version-controlled archive of my academic notes, code snippets, and physical interpretations of complex concepts.
+Welcome to my personal engineering and mathematics notebook. This repository serves as a centralized, version-controlled archive of my academic notes, where abstract equations are grounded in physical reality and intuitive "aha!" moments.
 
 > **⚠️ Disclaimer:** > These notes are a work in progress and are strictly for my own personal study. There might be typos, calculation errors, or conceptual blunders inside. Read and use at your own risk!
 
-## 📚 Subject Directories
-
-* 🧮 **[ENG 1005: Engineering Mathematics](./ENG_1005)**
-* 📐 **[ENG 1011: Engineering Methods](./ENG_1011)**
-* 🔭 **[PHS 1002: Physics for Engineering](./PHS_1002)**
-* 📈 **[ENG 2005: Advanced Engineering Mathematics](./ENG_2005)**
-* ⚡ **[ECE 2131: Electrical Circuits](./ECE_2131)**
+## 🧰 Core Toolkit
+* 📐 **[Important Math Stuff](./Important_Math_Stuff)**
+  * *Quick-access directory for foundational integrations, derivations, and ODE recaps.*
 
 ---
-*Organized for intuitive learning and quick reference.*
+
+## 📘 Year 1 Modules
+
+* 🧮 **[ENG 1005: Engineering Mathematics](./Year_1/ENG_1005)**
+  * 💡 **Key Resource:** **[Other Important Stuff](./Year_1/ENG_1005/Other%20Important%20Stuff)** *(Formula sheets and fundamental differentiation)*
+* 🏗️ **[ENG 1011: Engineering Methods](./Year_1/ENG_1011)**
+  * *Focus: Axial members, bending stress, trusses, and rigid bodies.*
+* 🔭 **[PHS 1002: Physics for Engineering](./Year_1/PHS_1002)**
+  * *Focus: Quantum physics, electromagnetism, and conservation of energy.*
+
+---
+
+## 📗 Year 2 Modules
+
+* 💻 **[ECE 2072: Digital Systems](./Year_2/ECE_2072)**
+  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2072/Other%20Important%20Stuff)** *(The core survival cheatsheet)*
+* ⚡ **[ECE 2131: Electrical Circuits](./Year_2/ECE_2131)**
+  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2131/Other%20Important%20Stuff)** *(Circuit analysis basics—crucial for mastering op-amps and AC steady state)*
+* 📈 **[ENG 2005: Advanced Engineering Mathematics](./Year_2/ENG_2005)**
+  * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ENG_2005/Other%20Important%20Stuff)** *(Shortcuts for partial fractions, arc lengths, and ODE recaps)*
+
+---
+*Organized for quick reference and continuous learning.*
