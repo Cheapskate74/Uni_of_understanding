@@ -1,6 +1,6 @@
 # 🧠 Uni of Understanding
 
-Welcome to my personal engineering and mathematics notebook. This repository serves as a centralized, version-controlled archive of my academic notes, where abstract equations are grounded in physical reality and intuitive "aha!" moments.
+Welcome to my personal engineering and mathematics notebook. This repository serves as a centralized, version-controlled archive of my academic notes, where abstract equations are grounded in physical reality.
 
 > **⚠️ Disclaimer:** > These notes are a work in progress and are strictly for my own personal study. There might be typos, calculation errors, or conceptual blunders inside. Read and use at your own risk!
 
