@@ -31,4 +31,3 @@ Welcome to my personal engineering and mathematics notebook. This repository ser
   * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ENG_2005/Other%20Important%20Stuff)** *(Shortcuts for partial fractions, arc lengths, and ODE recaps)*
 
 ---
-*Organized for quick reference and continuous learning.*
