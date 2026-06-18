@@ -18,6 +18,9 @@ Welcome to my personal engineering and mathematics notebook. This repository ser
   * 💡 **Key Resource:** **[Other Important Stuff](./Year_1/ENG_1005/Other%20Important%20Stuff)** *(Formula sheets and fundamental differentiation)*
 * 🏗️ **[ENG 1011: Engineering Methods](./Year_1/ENG_1011)**
   * *Focus: Axial members, bending stress, trusses, frames, and material properties (work hardening).*
+* ⚙️ **[ENG 1014: Engineering Numerical Analysis](./Year_1/ENG_1014)**
+  * *Focus: Applying Python programming to solve mathematical and engineering problems, covering data preparation, model fitting, root finding, numerical integration, and ODEs.*
+  * 💡 **Key Resource:** **[Notion Notes Archive](https://acidic-author-cc2.notion.site/ENG-1014-NOTES-07109b2080d482ff9d9e815ca0a2b28f?source=copy_link)**
 * 🔭 **[PHS 1002: Physics for Engineering](./Year_1/PHS_1002)**
   * *Focus: Electromagnetism, quantum physics, gravitation, and conservation of energy/momentum.*
 
