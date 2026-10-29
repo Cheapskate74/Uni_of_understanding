@@ -31,6 +31,9 @@ Welcome to my personal engineering and mathematics notebook. This repository ser
 * 💻 **[ECE 2072: Digital Systems](./Year_2/ECE_2072)**
   * *Focus: Combinational and sequential logic, Finite State Machines, and Karnaugh Maps.*
   * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2072/Other%20Important%20Stuff)** *(Cheatsheet)*
+* 📡 **[ECE 2111: Signals and Systems](./Year_2/ECE_2111)**
+  * *Focus: Continuous- and discrete-time signals, LTI systems, convolution, Fourier series and transforms, sampling and reconstruction, Laplace transforms, and Z-transforms.*
+  * 🚨 **MUST READ:** **[Complete Conceptual Summary](./Year_2/ECE_2111/ECE%202111%20Conceptual%20Summary%20%28Complete%29.pdf)** *(Connected notes covering the course from fundamental signals through transform-domain analysis of LTI systems)*
 * ⚡ **[ECE 2131: Electrical Circuits](./Year_2/ECE_2131)**
   * *Focus: AC steady-state analysis, Op Amps (ideal & practical), 1st/2nd order circuits, and BJT/MOSFETs.*
   * 💡 **Key Resource:** **[Other Important Stuff](./Year_2/ECE_2131/Other%20Important%20Stuff)** *(Circuit analysis basics)*
